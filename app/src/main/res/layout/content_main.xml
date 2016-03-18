@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.agustin.ledwb.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Seleccione Modo de Conexion"
+            android:id="@+id/textView"
+            android:background="#a2030303"
+            android:layout_weight="0.15"
+            android:gravity="center"
+            android:height="@dimen/abc_action_button_min_width_material"
+            android:textColor="#d8ffffff" />
+
+        <TextView
+            android:layout_width="359dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="WIFI"
+            android:id="@+id/textView4"
+            android:layout_gravity="right"
+            android:layout_weight="0.06"
+            android:gravity="center" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Wifi"
+            android:id="@+id/wifi"
+            android:allowUndo="true" />
+
+        <TextView
+            android:layout_width="359dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Bluetooth"
+            android:id="@+id/textView2"
+            android:layout_gravity="right"
+            android:layout_weight="0.06"
+            android:gravity="center" />
+
+        <Button
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bluetooth"
+            android:id="@+id/bluetooth" />
+    </LinearLayout>
+</RelativeLayout>

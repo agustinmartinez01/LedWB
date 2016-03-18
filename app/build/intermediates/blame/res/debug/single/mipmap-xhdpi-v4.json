@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/agustin/Escritorio/LedWB2/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/home/agustin/Escritorio/LedWB2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

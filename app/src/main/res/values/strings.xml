@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LedWB</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_bluetooth">BluetoothActivity</string>
+    <string name="title_activity_wifi">WifiActivity</string>
+    <string name="title_activity_led_control">ledControl</string>
+    <string name="blanco">Blanco</string>
+    <string name="Rojo">Rojo</string>
+    <string name="Azul">Azul</string>
+    <string name="Verde">Verde</string>
+    <string name="Amarillo">Amarillo</string>
+    <string name="Celeste">Celeste</string>
+    <string name="Violeta">Violeta</string>
+    <string name="Nada">Nada</string>
+
+</resources>

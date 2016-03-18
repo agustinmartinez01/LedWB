@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/agustin/Escritorio/LedWB2/app/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/home/agustin/Escritorio/LedWB2/app/src/main/res/menu/menu_device_list.xml"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/src/main/res/menu/menu_device_list.xml"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/build/intermediates/res/merged/debug/menu/menu_led_control.xml",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/src/main/res/menu/menu_led_control.xml"
+    },
+    {
+        "merged": "/home/agustin/Escritorio/LedWB2/app/build/intermediates/res/merged/debug/menu/menu_led_control.xml",
+        "source": "/home/agustin/Escritorio/LedWB2/app/src/main/res/menu/menu_led_control.xml"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/build/intermediates/res/merged/debug/menu/menu_device_list.xml",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB2/app/src/main/res/menu/menu_device_list.xml"
+    },
+    {
+        "merged": "/home/agustin/Escritorio/LedWB2/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/agustin/Escritorio/LedWB2/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/build/intermediates/res/merged/debug/menu/menu_led_control.xml",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/src/main/res/menu/menu_led_control.xml"
+    },
+    {
+        "merged": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/agustin/AndroidStudioProjects/pruebas/LedWB/app/src/main/res/menu/menu_main.xml"
+    }
+]
