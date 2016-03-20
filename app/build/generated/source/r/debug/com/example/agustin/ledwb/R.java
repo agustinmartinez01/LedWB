@@ -2279,8 +2279,6 @@ containing a value of this type.
         public static final int wifi=0x7f020051;
     }
     public static final class id {
-        public static final int Celeste=0x7f0c0071;
-        public static final int Ninguno=0x7f0c0073;
         public static final int action0=0x7f0c0082;
         public static final int action_bar=0x7f0c005a;
         public static final int action_bar_activity_content=0x7f0c0000;
@@ -2309,6 +2307,7 @@ containing a value of this type.
         public static final int button2=0x7f0c0074;
         public static final int buttonPanel=0x7f0c0044;
         public static final int cancel_action=0x7f0c0083;
+        public static final int celeste=0x7f0c0072;
         public static final int center=0x7f0c001e;
         public static final int center_horizontal=0x7f0c001f;
         public static final int center_vertical=0x7f0c0020;
@@ -2359,6 +2358,7 @@ containing a value of this type.
         public static final int multiply=0x7f0c0027;
         public static final int navigation_header_container=0x7f0c007d;
         public static final int never=0x7f0c0036;
+        public static final int ninguno=0x7f0c0073;
         public static final int none=0x7f0c0010;
         public static final int normal=0x7f0c000c;
         public static final int parallax=0x7f0c001b;
@@ -2419,7 +2419,7 @@ containing a value of this type.
         public static final int useLogo=0x7f0c0014;
         public static final int verde=0x7f0c006e;
         public static final int view_offset_helper=0x7f0c000a;
-        public static final int violeta=0x7f0c0072;
+        public static final int violeta=0x7f0c0071;
         public static final int wifi=0x7f0c0077;
         public static final int withText=0x7f0c0037;
         public static final int wrap_content=0x7f0c001a;
@@ -2528,15 +2528,22 @@ containing a value of this type.
         public static final int abc_shareactionprovider_share_with_application=0x7f060011;
         public static final int abc_toolbar_collapse_description=0x7f060012;
         public static final int action_settings=0x7f06001b;
-        public static final int app_name=0x7f06001c;
-        public static final int appbar_scrolling_view_behavior=0x7f06001d;
-        public static final int blanco=0x7f06001e;
-        public static final int bottom_sheet_behavior=0x7f06001f;
-        public static final int character_counter_pattern=0x7f060020;
+        public static final int amarillo=0x7f06001c;
+        public static final int app_name=0x7f06001d;
+        public static final int appbar_scrolling_view_behavior=0x7f06001e;
+        public static final int azul=0x7f06001f;
+        public static final int blanco=0x7f060020;
+        public static final int bottom_sheet_behavior=0x7f060021;
+        public static final int celeste=0x7f060022;
+        public static final int character_counter_pattern=0x7f060023;
+        public static final int ninguno=0x7f060024;
+        public static final int rojo=0x7f060025;
         public static final int status_bar_notification_info_overflow=0x7f060013;
-        public static final int title_activity_bluetooth=0x7f060021;
-        public static final int title_activity_led_control=0x7f060022;
-        public static final int title_activity_wifi=0x7f060023;
+        public static final int title_activity_bluetooth=0x7f060026;
+        public static final int title_activity_led_control=0x7f060027;
+        public static final int title_activity_wifi=0x7f060028;
+        public static final int verde=0x7f060029;
+        public static final int violeta=0x7f06002a;
     }
     public static final class style {
         public static final int AlertDialog_AppCompat=0x7f090088;

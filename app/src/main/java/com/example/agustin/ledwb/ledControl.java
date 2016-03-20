@@ -100,9 +100,6 @@ public class ledControl extends ActionBarActivity {
     {
         rg=(RadioGroup)findViewById(R.id.radioGroup);
         String color = " ";
-        if (rg.getCheckedRadioButtonId() == R.id.Ninguno) {
-            color ="Nada";
-        }
         if (rg.getCheckedRadioButtonId() == R.id.rojo) {
             color = "Rojo";
         }
@@ -118,8 +115,13 @@ public class ledControl extends ActionBarActivity {
         if (rg.getCheckedRadioButtonId() == R.id.violeta) {
             color = "Violeta";
         }
-        if (rg.getCheckedRadioButtonId() == R.id.Celeste) {
+        if (rg.getCheckedRadioButtonId() == R.id.celeste){
             color = "Celeste";
+            Toast.makeText(getApplicationContext(), "Color Seleccionado 1: " + color, Toast.LENGTH_LONG).show();
+        }
+        if (rg.getCheckedRadioButtonId()== R.id.ninguno){
+            color = "Ninguno";
+            Toast.makeText(getApplicationContext(), "Color Seleccionado 1: " + color, Toast.LENGTH_LONG).show();
         }
 
 
@@ -160,6 +162,14 @@ public class ledControl extends ActionBarActivity {
         }
         if (rg.getCheckedRadioButtonId() == R.id.violeta) {
             color = "Violeta";
+        }
+        if (rg.getCheckedRadioButtonId() == R.id.celeste){
+            color = "Celeste";
+
+        }
+        if (rg.getCheckedRadioButtonId()== R.id.ninguno){
+            color = "Ninguno";
+
         }
 
         Toast.makeText(getApplicationContext(), "Color Seleccionado: " + color, Toast.LENGTH_LONG).show();

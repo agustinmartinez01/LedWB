@@ -28,49 +28,49 @@
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/rojo"
+                android:text="rojo"
                 android:id="@+id/rojo"
                 android:checked="false" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/verde"
+                android:text="verde"
                 android:id="@+id/verde"
                 android:checked="false" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/azul"
+                android:text="azul"
                 android:id="@+id/azul"
                 android:checked="false" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/amarillo"
+                android:text="amarillo"
                 android:id="@+id/amarillo"
                 android:checked="false" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/celeste"
-                android:id="@+id/celeste"
-                android:checked="false" />
-
-            <RadioButton
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:text="@string/violeta"
+                android:text="violeta"
                 android:id="@+id/violeta"
                 android:checked="false" />
 
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/ninguno"
+                android:text="celeste"
+                android:id="@+id/celeste"
+                android:checked="false" />
+
+            <RadioButton
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ninguno"
                 android:id="@+id/ninguno"
                 android:checked="false" />
 
@@ -82,7 +82,8 @@
             android:layout_height="84dp"
             android:text="Prender"
             android:id="@+id/button2"
-            android:layout_gravity="center_vertical" />
+            android:layout_gravity="center_vertical"
+            android:gravity="center" />
 
     </LinearLayout>
 
