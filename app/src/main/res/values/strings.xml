@@ -12,5 +12,12 @@
     <string name="Celeste">Celeste</string>
     <string name="Violeta">Violeta</string>
     <string name="Nada">Nada</string>
+    <string name="celeste">Celeste</string>
+    <string name="violeta">Violeta</string>
+    <string name="ninguno">Ninguno</string>
+    <string name="amarillo">Amarillo</string>
+    <string name="azul">Azul</string>
+    <string name="verde">Verde</string>
+    <string name="rojo">Rojo</string>
 
 </resources>

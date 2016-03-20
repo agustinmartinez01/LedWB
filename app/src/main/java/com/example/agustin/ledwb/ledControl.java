@@ -100,7 +100,7 @@ public class ledControl extends ActionBarActivity {
     {
         rg=(RadioGroup)findViewById(R.id.radioGroup);
         String color = " ";
-        if (rg.getCheckedRadioButtonId() == R.id.ninguno) {
+        if (rg.getCheckedRadioButtonId() == R.id.Ninguno) {
             color ="Nada";
         }
         if (rg.getCheckedRadioButtonId() == R.id.rojo) {
@@ -118,8 +118,8 @@ public class ledControl extends ActionBarActivity {
         if (rg.getCheckedRadioButtonId() == R.id.violeta) {
             color = "Violeta";
         }
-        if (rg.getCheckedRadioButtonId() == R.id.celeste) {
-            color = "eleste";
+        if (rg.getCheckedRadioButtonId() == R.id.Celeste) {
+            color = "Celeste";
         }
 
 
