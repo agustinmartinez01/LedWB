@@ -55,6 +55,27 @@ void loop()
       analogWrite(analogPin2,0);
       analogWrite(analogPin3,255);
     }
+    if(color=="Ninguno"){
+      analogWrite(analogPin1,0);
+      analogWrite(analogPin2,0);
+      analogWrite(analogPin3,0);
+    }
+    if(color=="Amarillo"){
+      analogWrite(analogPin1,255);
+      analogWrite(analogPin2,150);
+      analogWrite(analogPin3,0);
+    }
+    if(color=="Celeste"){
+      analogWrite(analogPin1,0);
+      analogWrite(analogPin2,255);
+      analogWrite(analogPin3,255);
+    }
+    if(color=="Violeta"){
+      analogWrite(analogPin1,255);
+      analogWrite(analogPin2,0);
+      analogWrite(analogPin3,255);
+    }
+    
   
   }
   
