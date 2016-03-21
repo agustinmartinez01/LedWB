@@ -121,7 +121,7 @@ public class WifiActivity extends AppCompatActivity {
                Socket miSocket;
                 DataOutputStream out;
                 try{
-                    miSocket = new Socket("192.168.0.107",8600);
+                    miSocket = new Socket(ip,puerto);
                     out = new DataOutputStream(miSocket.getOutputStream());
                     out.writeUTF(finalColor);
                     out.close();;
